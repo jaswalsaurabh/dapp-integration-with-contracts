@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 50px;
+  align-items: center;
+}
+
+.nav h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: grey;
+  font-weight: bold;
+}
+
+.button {
+  background-color: green;
+  border: 2px solid green;
+  color: white;
+  font-size: 14px;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
